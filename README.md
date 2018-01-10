@@ -1,4 +1,4 @@
-# ZendSkeletonApplication
+# An Opensource PhpLogger Application
 
 ## Introduction
 
